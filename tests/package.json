@@ -17,7 +17,7 @@
   "dependencies": {
     "chai": "^2.3.0",
     "mailcomposer": "^0.2.12",
-    "mailparser": "0.5.1",
+    "mailparser": "3.9.3",
     "simplesmtp": "0.3.35",
     "underscore": "^1.8.3"
   }
